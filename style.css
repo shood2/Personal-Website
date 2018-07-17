@@ -1,0 +1,66 @@
+header{
+  margin: 0px;
+  background-color: #9999ff;
+  border: 1px solid grey;
+}
+
+#TopBar{
+  text-align: center;
+  font-size: 40pt;
+}
+
+#NavigationBar{
+  height: auto;
+  width:100%;
+  display: block;
+  text-align: center;
+  background-color: #aaaaaf;
+  margin: auto;
+}
+
+a {
+  color: white;
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  height: auto;
+  width: 100%;
+  border: 1px solid #99999f;
+  text-decoration: none;
+  font-size: 20pt;
+}
+
+a:hover{
+  background-color: #99999f;
+}
+
+#intro{
+  font-size: 25px;
+  padding-top: 10%;
+  padding-left: 25%;
+
+}
+
+#smallintro{
+  font-size: 20px;
+  padding-left: 20%;
+}
+
+body{
+  background-color: #eeeeef;
+}
+
+div{
+  column-count: 2;
+}
+
+img{
+  padding-top: 5%;
+  width: 60%;
+  height: auto;
+}
+
+#chart{
+  width:50%;
+  align: center;
+}
