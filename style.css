@@ -18,7 +18,7 @@ header{
   margin: auto;
 }
 
-a {
+#navigation {
   color: white;
   text-align: center;
   padding-left: 5%;
@@ -63,4 +63,13 @@ img{
 #chart{
   width:50%;
   align: center;
+}
+
+#contact {
+  text-align: center;
+}
+
+a, a:visited, a:hover {
+  text-decoration: none;
+  color: inherit;
 }
